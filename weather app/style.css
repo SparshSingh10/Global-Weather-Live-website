@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(22,22,37);
+    color: rgb(184,47,63);
+}
+.card{
+    background-color: rgb(19,34,64);
+}
+.table{
+    color: rgb(39,158,67);
+}
+.navbar{
+    background-color:rgb(19,34,64) ;
+    color: rgb(184,47,63);
+}
+.nav-link,.nav-link .active{
+    color: rgb(184,47,63);
+}
+
+.navbar-brand{
+    color: white;
+}
+#navbarSupportedContent > ul > li:nth-child(1) > a{
+    color: rgb(184,47,63); ;
+}
